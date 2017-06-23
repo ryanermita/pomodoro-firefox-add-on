@@ -1,5 +1,5 @@
 ### Pomodoro Firefox Add-on
 
 
-### Possible Cause Why this might work
+### Possible cause why the Add-on might not work
 - content scripts are blocked on the website.
